@@ -5,7 +5,7 @@ This project investigates the Buy Now Pay Later (BNPL) market, analyzing key tre
 
 
 ## Project Link
-[BNPL Research Case Study Documentation](https://drive.google.com/file/d/1MHJAoOQygjqTCfU5mhknT2oGQ8n3sQ9I/view?usp=sharing)
+Project Link: [BNPL Research Case Study Documentation](https://drive.google.com/file/d/1MHJAoOQygjqTCfU5mhknT2oGQ8n3sQ9I/view?usp=sharing)
 
 ---
 
